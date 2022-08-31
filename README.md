@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-first script
+my first script
